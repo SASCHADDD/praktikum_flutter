@@ -1,5 +1,7 @@
 # praktikum_flutter
+<img width="468" height="960" alt="Screenshot 2026-03-12 at 4 25 27 AM" src="https://github.com/user-attachments/assets/54384a8f-93fd-4dc9-b1f5-f5025e1519c8" />
 
+Layoting dan memanggil gambar, yang di ubah file yaml nya harus sama patchnya ketika di panggil di file utama
 A new Flutter project.
 
 ## Getting Started
